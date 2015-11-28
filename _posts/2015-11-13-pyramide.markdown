@@ -1,0 +1,14 @@
+---
+title: Pyramide
+subtitle: Graphic Design
+layout: default
+modal-id: 7
+date: 2015-11-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: ytytyt 2014
+category: Web Development
+description: Essai.
+
+---

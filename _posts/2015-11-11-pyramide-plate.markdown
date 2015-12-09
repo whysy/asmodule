@@ -3,7 +3,7 @@ title: Pyramide plate
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2015-11-11
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt

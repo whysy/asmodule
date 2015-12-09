@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: Pyramide plate
 subtitle: Website Design
 layout: default
 modal-id: 2

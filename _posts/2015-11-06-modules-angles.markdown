@@ -3,7 +3,7 @@ title: Modules angles
 subtitle: Graphic Design
 layout: default
 modal-id: 6
-date: 2015-07-15
+date: 2015-11-06
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt

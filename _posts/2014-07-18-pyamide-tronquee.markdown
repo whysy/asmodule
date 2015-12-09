@@ -1,5 +1,5 @@
 ---
-title: Dreams
+title: Pyramide tronquée
 subtitle: Website Design
 layout: default
 modal-id: 1

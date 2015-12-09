@@ -3,7 +3,7 @@ title: Diamant III
 subtitle: Website Design
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2015-11-10
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt

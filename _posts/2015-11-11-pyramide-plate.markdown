@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 2
 date: 2015-11-11
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: pyramide-plate.png
+thumbnail: pyramide-plate-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

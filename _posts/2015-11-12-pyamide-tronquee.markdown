@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2015-11-12
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: pyramide-tronquee.png
+thumbnail: pyramide-tronquee-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

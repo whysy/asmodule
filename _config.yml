@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Clement Astruc
-  pic: 1
+  pic: clement_astruc
   position: Fondateur
   social:
     - title: twitter

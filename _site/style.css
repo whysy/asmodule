@@ -869,3 +869,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #;
 }
+
+.credit{
+    margin-top:10px;
+}
+}

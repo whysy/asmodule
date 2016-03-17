@@ -1,0 +1,14 @@
+---
+title: Prisme
+subtitle: Graphic Design
+layout: default
+modal-id: 8
+date: 2016-03-17
+img: pyramide.png
+thumbnail: pyramide-thumbnail.png
+alt: image-alt
+project-date: ytytyt 2014
+category: Web Development
+description: Essai.
+
+---

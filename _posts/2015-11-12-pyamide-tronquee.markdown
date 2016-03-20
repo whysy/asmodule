@@ -10,6 +10,6 @@ alt: image-alt
 poids: 1.2kg
 taille: XS
 prix: 25
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Tout les modules sont disponible dans les tailles suivantes. Une rabais de 5% est effectué si le module est commandé sans inserts.
 
 ---

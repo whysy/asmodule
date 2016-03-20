@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2015-11-10
-img: diamant-iii.png
-thumbnail: diamant-iii-thumbnail.png
+img: 4_faces_diamant_long_1200_jaune_resize.png
+thumbnail: 4_faces_diamant_long_1200_jaune_thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

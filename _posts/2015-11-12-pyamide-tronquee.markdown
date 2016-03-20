@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2015-11-12
-img: 3_faces_identiques _creux_resize.jpg
-thumbnail: 3_faces_identiques _creux_thumb.jpg
+img: pyramide-tronquee.png
+thumbnail: pyramide-tronquee-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

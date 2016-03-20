@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 2
 date: 2015-11-11
-img: pyramide-plate.png
-thumbnail: pyramide-plate-thumbnail.png
+img: 3_faces_identiques_grand_plat_jaune_resize.jpg
+thumbnail: 3_faces_identiques_grand_plat_jaune_thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

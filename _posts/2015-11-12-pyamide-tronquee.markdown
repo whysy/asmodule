@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2015-11-12
 img: pyramide-tronquee.png
-thumbnail: pyramide-tronquee_thumbnail.png
+thumbnail: pyramide-tronquee-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

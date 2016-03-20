@@ -3,7 +3,7 @@ title: Diamant III
 subtitle: Website Design
 layout: default
 modal-id: 3
-date: 2015-11-10
+date: 2015-11-08
 img: 4_faces_diamant_long_1200_jaune_resize.jpg
 thumbnail: 4_faces_diamant_long_1200_jaune_thumb.jpg
 alt: image-alt

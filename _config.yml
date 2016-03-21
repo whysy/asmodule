@@ -39,3 +39,19 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Description module
+module:
+- taille:
+    - title: XS
+    - title: M
+    - title: L
+- couleur:
+    - title: Bleu
+      codeCouleur: #blue;
+    - title: Jaune
+      codeCouleur: #yellow;
+    - title: Rouge
+      codeCouleur: #red;
+    - title: Gris
+      codeCouleur: #grey;

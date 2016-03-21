@@ -29,9 +29,17 @@
                                     <strong><a href="http://startbootstrap.com">{{ post.prix }}&euro;</a>
                                     </strong>
                                 </li>
+                                
+                                <p>Essai
                                 {% for taille in module %}
                             <li>{{ taille.title }}</li>
                             {% endfor %}
+                            
+                             {% for essai in module.couleur %}
+                             <a href="http://startbootstrap.com">{{ essai.couleur }}</a>
+                             <a href="http://startbootstrap.com">{{ essai.codeCouleur }}</a>
+                            {% endfor %}
+                            </p>
                             </ul>
                             
                             

@@ -29,7 +29,13 @@
                                     <strong><a href="http://startbootstrap.com">{{ post.prix }}&euro;</a>
                                     </strong>
                                 </li>
+                                {% for taille in module %}
+                            <li>{{ taille.title }}</li>
+                            {% endfor %}
                             </ul>
+                            
+                            
+                            
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                         </div>
                     </div>

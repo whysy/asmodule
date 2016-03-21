@@ -31,13 +31,8 @@
                                 </li>
                                 
                                 <p>Essai
-                                {% for taille in module %}
-                            <li>{{ taille.title }}</li>
-                            {% endfor %}
-                            
-                             {% for essai in module.couleur %}
-                             <a href="http://startbootstrap.com">{{ essai.couleur }}</a>
-                             <a href="http://startbootstrap.com">{{ essai.codeCouleur }}</a>
+                             {% for module in site.taille %}
+                             <a href="http://startbootstrap.com">{{ module.title }}</a>
                             {% endfor %}
                             </p>
                             </ul>

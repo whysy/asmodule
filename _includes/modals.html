@@ -16,25 +16,26 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            <p>Les couleurs suivantes sont disponibles:</p>
+                             <ul class="list-inline item-details">
+                             {% for couleur in site.couleur %}
+                             <li>{{ couleur.nom }}</li>
+                            {% endfor %}
+                            </ul>
+                            
                             <ul class="list-inline item-details">
                                 <li>Taille:
-                                    <strong><a href="http://startbootstrap.com">{{ post.taille }}</a>
+                                    <strong>{{ post.taille }}
                                     </strong>
                                 </li>
                                 <li>Poids:
-                                    <strong><a href="http://startbootstrap.com">{{ post.poids }}</a>
+                                    <strong>{{ post.poids }}
                                     </strong>
                                 </li>
                                 <li>Prix:
-                                    <strong><a href="http://startbootstrap.com">{{ post.prix }}&euro;</a>
+                                    <strong>{{ post.prix }}&euro;
                                     </strong>
                                 </li>
-                                
-                                <p>Essai
-                             {% for module in site.taille %}
-                             <a href="http://startbootstrap.com">{{ module.title }}</a>
-                            {% endfor %}
-                            </p>
                             </ul>
                             
                             

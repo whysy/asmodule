@@ -48,10 +48,10 @@ module:
     - title: L
 - couleur:
     - title: Bleu
-      codeCouleur: #blue;
+      codeCouleur: blue
     - title: Jaune
-      codeCouleur: #yellow;
+      codeCouleur: yellow
     - title: Rouge
-      codeCouleur: #red;
+      codeCouleur: red
     - title: Gris
-      codeCouleur: #grey;
+      codeCouleur: grey

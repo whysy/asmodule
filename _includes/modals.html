@@ -16,11 +16,13 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            
                             <p>Les couleurs suivantes sont disponibles:</p>
-                             <ul class="list-inline item-details">
+                            
+                            <ul class="list-inline item-details">
                              {% for couleur in site.couleur %}
-                             <li>{{ couleur.nom }}</li>
-                            {% endfor %}
+                              <li>{{ couleur.nom }} <span style="background_color:#{{ couleur.code }};width:50px;"></span></li>
+                             {% endfor %}
                             </ul>
                             
                             <ul class="list-inline item-details">

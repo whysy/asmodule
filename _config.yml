@@ -43,11 +43,11 @@ permalink: pretty
 # Description module
 couleur:
   - nom: Bleu
-    code: blue
+    code: 0000FF
   - nom: Rouge
-    code: red
+    code: FF0000
   - nom: Jaune
-    code: yellow
+    code: FFFF00
   - nom: Gris
-    code: grey
+    code: A4A4A4
 

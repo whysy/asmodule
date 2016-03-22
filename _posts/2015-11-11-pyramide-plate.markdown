@@ -20,4 +20,5 @@ taille:
     poids: 4.5
     insert: 16
     prix: 75
+
 ---

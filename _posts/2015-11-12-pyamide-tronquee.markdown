@@ -2,7 +2,7 @@
 title: Pyramide tronquée
 subtitle: 3 tailles disponibles
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2015-11-12
 img: pyramide-tronquee.png
 thumbnail: pyramide-tronquee-thumbnail.png

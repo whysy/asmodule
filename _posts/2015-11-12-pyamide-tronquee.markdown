@@ -11,5 +11,7 @@ poids: 1.2kg
 taille: XS
 prix: 25
 description: Tout les modules sont disponible dans les tailles suivantes. Une rabais de 5% est effectué si le module est commandé sans inserts.
+test:
+  - title: essai 
 
 ---

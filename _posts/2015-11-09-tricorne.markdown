@@ -2,7 +2,7 @@
 title: Tricorne
 subtitle: 2 tailles disponibles
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2015-11-09
 img: 3_faces_identiques _creux_resize.jpg
 thumbnail: 3_faces_identiques _creux_thumb.jpg

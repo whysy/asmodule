@@ -1,6 +1,6 @@
 ---
 title: Tricorne
-subtitle: Website Design
+subtitle: 2 tailles disponibles
 layout: default
 modal-id: 1
 date: 2015-11-09

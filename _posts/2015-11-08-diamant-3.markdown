@@ -1,6 +1,6 @@
 ---
 title: Diamant III
-subtitle: Website Design
+subtitle: 2 tailles disponibles
 layout: default
 modal-id: 3
 date: 2015-11-08

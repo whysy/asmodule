@@ -16,7 +16,7 @@ taille:
     poids: 3.5
     insert: 8
     prix: 95
-  - title: L (longueur :100cm hauteur :15cm)
+  - title: L (longueur :120cm hauteur :15cm)
     poids: 4
     insert: 10
     prix: 105

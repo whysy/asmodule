@@ -9,7 +9,7 @@ thumbnail: pyramide-tronquee-thumbnail.png
 alt: Module Pyramide tronquée
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 taille:
-  - title: XS (25x25x25cm hauteur \:10.5cm)
+  - title: XS (25x25x25cm hauteur: 10.5cm)
     poids: 0.5
     insert: 0
     prix: 35

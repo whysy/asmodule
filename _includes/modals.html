@@ -25,6 +25,10 @@
                              {% endfor %}
                             </ul>
                             
+                            {% for taille in post.test %}
+                            <p>{{ taille.title }}</p>
+                            {% endfor %}
+                            
                             <ul class="list-inline item-details">
                                 <li>Taille:
                                     <strong>{{ post.taille }}

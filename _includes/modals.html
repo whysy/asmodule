@@ -25,7 +25,7 @@
                              {% endfor %}
                             </ul>
                             
-                            <ul class="item-details">
+                            <ul class="list-inline item-details">
                             {% for attribute in post.taille %}
                                 <li>Taille:
                                     <strong>{{ attribute.title }}
@@ -39,6 +39,7 @@
                                     <strong>{{ attribute.prix }}&euro;
                                     </strong>
                                 </li>
+                                <br/>
                                 {% endfor %}
                             </ul>
 

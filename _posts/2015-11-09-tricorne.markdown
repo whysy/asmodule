@@ -12,7 +12,7 @@ client: Start Bootstrap
 category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 taille:
-  - title: 'Creux' (73x73x73cm hauteur :11.5cm)
+  - title: \'Creux\' (73x73x73cm hauteur :11.5cm)
     poids: 4
     insert: 15
     prix: 150

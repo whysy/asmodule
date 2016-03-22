@@ -21,4 +21,5 @@ taille:
     poids: 6
     insert: 13
     prix: 100
+
 ---

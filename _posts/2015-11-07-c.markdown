@@ -2,7 +2,7 @@
 title: C
 subtitle: Graphic Design
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2015-11-07
 img: six-faces-c.png
 thumbnail: six-faces-c-thumbnail.png

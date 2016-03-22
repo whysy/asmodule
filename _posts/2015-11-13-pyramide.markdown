@@ -1,6 +1,6 @@
 ---
 title: Pyramide
-subtitle: Graphic Design
+subtitle: 3 tailles disponibles
 layout: default
 modal-id: 7
 date: 2015-11-15
@@ -9,6 +9,19 @@ thumbnail: pyramide-thumbnail.png
 alt: image-alt
 project-date: ytytyt 2014
 category: Web Development
-description: Essai.
+description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+taille:
+  - title: XS (25x25x25cm hauteur :10.5cm)
+    poids: 0.5
+    insert: 0
+    prix: 25
+  - title: M (45x45x45cm hauteur :22.3cm)
+    poids: 1.5
+    insert: 3
+    prix: 65
+  - title: L (79x79x79cm hauteur :39cm)
+    poids: 6
+    insert: 24
+    prix: 90
 
 ---

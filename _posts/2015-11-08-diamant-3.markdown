@@ -10,19 +10,15 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Un rabais de 5% est effectué si le module est commandé sans inserts. Lot de 3: €
 taille:
-  - title: XS 25x25x25cm hauteur: 10.5cm
-    poids: 0.5
-    insert: 0
-    prix: 35
-  - title: M 45x45x45cm hauteur: 22.3cm
-    poids: 1.5
-    insert: 7
-    prix: 75
-  - title: L 79x79x79cm hauteur: 39cm
-    poids: 6
-    insert: 13
-    prix: 100
+  - title: M (longueur :100cm hauteur :15cm)
+    poids: 3.5
+    insert: 8
+    prix: 95
+  - title: L (longueur :100cm hauteur :15cm)
+    poids: 4
+    insert: 10
+    prix: 105
 
 ---

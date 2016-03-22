@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Un rabais de 5% est effectué si le module est commandé sans inserts. Lot de 3: €
+description: Un rabais de 5% est effectué si le module est commandé sans inserts. Lot de 3 :€
 taille:
   - title: M (longueur :100cm hauteur :15cm)
     poids: 3.5

@@ -1,6 +1,6 @@
 ---
 title: Pyramide plate
-subtitle: Website Design
+subtitle: 2 taille disponible
 layout: default
 modal-id: 5
 date: 2015-11-11

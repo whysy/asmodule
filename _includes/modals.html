@@ -28,16 +28,16 @@
                             <ul class="list-inline item-details">
                             {% for attribute in post.taille %}
                                 <li>Taille:
-                                    <strong>{{ attribute.title }}
-                                    </strong>
+                                    <strong>{{ attribute.title }}</strong>
                                 </li>
                                 <li>Poids:
-                                    <strong>{{ attribute.poids }}kg
-                                    </strong>
+                                    <strong>{{ attribute.poids }}kg</strong>
+                                </li>
+                                <li>Nb inserts:
+                                    <strong>{{ attribute.insert }}</strong>
                                 </li>
                                 <li>Prix:
-                                    <strong>{{ attribute.prix }}&euro;
-                                    </strong>
+                                    <strong>{{ attribute.prix }}&euro;</strong>
                                 </li>
                                 <br/>
                                 {% endfor %}

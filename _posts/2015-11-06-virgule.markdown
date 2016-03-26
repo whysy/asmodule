@@ -1,5 +1,5 @@
 ---
-title: C
+title: Virgule
 subtitle: 2 tailles disponibles
 layout: default
 modal-id: 1

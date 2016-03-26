@@ -874,3 +874,8 @@ body {
 .border-img {
     border: 2px solid #363b42;
 }
+
+.hauteur-30{
+    line-height: 30px;
+}
+}

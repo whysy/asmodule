@@ -15,7 +15,6 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
                             
                             <p>Les couleurs suivantes sont disponibles:</p>
                             
@@ -24,6 +23,8 @@
                               <li><span class="hauteur-30">{{ couleur.nom }}</span><span style="background-color:#{{ couleur.code }};width:50px;height:30px;display:block;float:right;margin-left:10px;"></span></li>
                              {% endfor %}
                             </ul>
+                            
+                            <p>{{ post.description }}</p>
                             
                             <ul class="list-inline item-details">
                             {% for attribute in post.taille %}

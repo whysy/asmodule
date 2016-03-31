@@ -14,8 +14,15 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered border-img" alt="{{ post.alt }}">
                             
+                            <div class="my-slider">
+                             	<ul>
+                             	 {% for image in post.images %}
+                             	 <li><img src="img/portfolio/{{ image.name }}" class="img-responsive img-centered border-img" alt="{{ image.alt }}"></li>
+                             	 {% endfor %}
+                             	</ul>
+                             </div>
+                             
                             <p>Les couleurs suivantes sont disponibles:</p>
                             
                             <ul class="list-inline item-details">
@@ -44,15 +51,6 @@
                                 {% endfor %}
                             </ul>
                             
-                            <div class="my-slider">
-                             	<ul>
-                             	 {% for image in post.images %}
-                             	 <li><img src="img/portfolio/{{ image.name }}" class="img-responsive img-centered border-img" alt="{{ image.alt }}"></li>
-                             	 {% endfor %}
-                             		
-                             	</ul>
-                             </div>
-
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                         </div>
                     </div>

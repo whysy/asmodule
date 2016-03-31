@@ -4,9 +4,7 @@ subtitle: 2 tailles disponibles
 layout: default
 modal-id: 3
 date: 2015-11-08
-img: 4_faces_diamant_long_1200_jaune_resize.jpg
 thumbnail: 4_faces_diamant_long_1200_jaune_thumb.jpg
-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
@@ -20,5 +18,9 @@ taille:
     poids: 4
     insert: 10
     prix: 105
-
+images:
+  - name: 4_faces_diamant_long_1000_jaune_resize.jpg
+    alt: image-alt1
+  - name: 4_faces_diamant_long_1200_jaune_resize.jpg
+    alt: image-alt2
 ---

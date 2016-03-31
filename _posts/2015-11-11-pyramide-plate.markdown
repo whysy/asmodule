@@ -4,9 +4,7 @@ subtitle: 2 taille disponible
 layout: default
 modal-id: 5
 date: 2015-11-11
-img: 3_faces_identiques_grand_plat_jaune_resize.jpg
 thumbnail: 3_faces_identiques_grand_plat_jaune_thumb.jpg
-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
@@ -20,5 +18,9 @@ taille:
     poids: 4.5
     insert: 16
     prix: 90
-
+images:
+  - name: 3_faces_identiques_grand_plat_jaune_resize.jpg
+    alt: image-alt1
+  - name: 3_faces_identiques_grand_plat_resize.jpg
+    alt: image-alt2
 ---

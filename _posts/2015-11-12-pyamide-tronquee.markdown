@@ -4,9 +4,7 @@ subtitle: 3 tailles disponibles
 layout: default
 modal-id: 6
 date: 2015-11-12
-img: pyramide-tronquee.png
 thumbnail: pyramide-tronquee-thumbnail.png
-alt: Module Pyramide tronquée
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 taille:
   - title: XS (25x25x25cm hauteur :10.5cm)
@@ -21,5 +19,9 @@ taille:
     poids: 6
     insert: 13
     prix: 100
-
+images:
+  - name: pyramide-tronquee.png
+    alt: image-alt1
+  - name: 3_faces_identiques_groupe_tronque.jpg
+    alt: image-alt2
 ---

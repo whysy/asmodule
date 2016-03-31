@@ -20,5 +20,9 @@ taille:
     poids: 4
     insert: 15
     prix: 145
-
+images:
+  -name: 3_faces_identiques _creux_resize.jpg
+   alt: image-alt1
+  -name: 3_faces_identiques _creux_resize.jpg
+   alt: image-alt2
 ---

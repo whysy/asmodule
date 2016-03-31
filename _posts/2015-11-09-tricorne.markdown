@@ -21,6 +21,6 @@ taille:
 images:
   - name: 3_faces_identiques _creux_resize.jpg
     alt: image-alt1
-  - name: 3_faces_identiques _creux_resize.jpg
+  - name: 3_faces_identiques_grand_creux_centre_resize.jpg
     alt: image-alt2
 ---

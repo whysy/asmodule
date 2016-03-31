@@ -4,9 +4,7 @@ subtitle: 2 tailles disponibles
 layout: default
 modal-id: 4
 date: 2015-11-09
-img: 3_faces_identiques _creux_resize.jpg
 thumbnail: 3_faces_identiques _creux_thumb.jpg
-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
@@ -21,8 +19,8 @@ taille:
     insert: 15
     prix: 145
 images:
-  -name: 3_faces_identiques _creux_resize.jpg
-   alt: image-alt1
-  -name: 3_faces_identiques _creux_resize.jpg
-   alt: image-alt2
+  - name: 3_faces_identiques _creux_resize.jpg
+    alt: image-alt1
+  - name: 3_faces_identiques _creux_resize.jpg
+    alt: image-alt2
 ---

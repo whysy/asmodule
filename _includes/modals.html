@@ -46,9 +46,10 @@
                             
                             <div class="my-slider">
                              	<ul>
-                             		<li>My slide</li>
-                             		<li>Another slide</li>
-                             		<li>My last slide</li>
+                             	 {% for image in post.images %}
+                             	 <li><img src="img/portfolio/{{ image.name }}" class="img-responsive img-centered border-img" alt="{{ image.alt }}"></li>
+                             	 {% endfor %}
+                             		
                              	</ul>
                              </div>
 

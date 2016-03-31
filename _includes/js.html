@@ -22,6 +22,21 @@
     <script src="{{ "/js/unslider-min.js" | prepend: site.baseurl }}"></script>
     <script>
    		jQuery(document).ready(function($) {
-   			$('.my-slider').unslider({autoplay: true,arrows: false});
+   		var unslider = $('.my-slider').unslider({
+		        autoplay: true,
+		        arrows: false
+		    }),
+		    data = unslider.data('unslider');
+		
+		    var slides = $('.my-slider'),
+		        i = 0;
+		
+		    slides
+		    .on('swipeleft', function(e) {
+		        unslider.prev();
+		    })
+		    .on('swiperight', function(e) {
+		        unslider.next();
+		    });
    		});
 	</script>

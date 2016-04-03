@@ -4,8 +4,8 @@ subtitle: 1 taille disponible
 layout: default
 modal-id: 2
 date: 2015-11-07
-img: pyramide.png
-thumbnail: pyramide-thumbnail.png
+img: prisme_resize.png
+thumbnail: prisme-thumb.png
 alt: image-alt
 project-date: ytytyt 2014
 category: Web Development

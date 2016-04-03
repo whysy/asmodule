@@ -4,9 +4,7 @@ subtitle: 1 taille disponible
 layout: default
 modal-id: 2
 date: 2015-11-07
-img: prisme_resize.png
 thumbnail: prisme_thumb.png
-alt: image-alt
 project-date: ytytyt 2014
 category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
@@ -15,5 +13,7 @@ taille:
     poids: 11
     insert: 32
     prix: 170
-
+images:
+  - name: prisme_resize.png
+    alt: image-alt
 ---

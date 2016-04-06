@@ -1,6 +1,6 @@
 ---
 title: Pyramide plate
-subtitle: 2 taille disponible
+subtitle: 2 tailles disponibles
 layout: default
 modal-id: 5
 date: 2015-11-11
@@ -20,7 +20,7 @@ taille:
     prix: 90
 images:
   - name: pyramide-plate.png
-    alt: image-alt2
+    alt: pyramide plate
   - name: 3_faces_identiques_grand_plat_jaune_resize.jpg
-    alt: image-alt1
+    alt: pyramide plate jaune
 ---

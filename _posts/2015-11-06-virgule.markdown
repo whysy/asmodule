@@ -10,11 +10,11 @@ client: Start Bootstrap
 category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 taille:
-  - title: M
+  - title: En un bloc
     poids: 22
     insert: 65
     prix: 250
-  - title: L
+  - title: En trois blocs
     poids: 24
     insert: 79
     prix: 310

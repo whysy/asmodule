@@ -28,4 +28,6 @@ images:
     alt: pyramide M
   - name: pyramide_L_resize.jpg
     alt: pyramide L
+  - name: pyramide_groupe_resize.jpg
+    alt: pyramide groupe
 ---

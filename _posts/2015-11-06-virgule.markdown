@@ -4,9 +4,7 @@ subtitle: 2 tailles disponibles
 layout: default
 modal-id: 1
 date: 2015-11-06
-img: six-faces-c.png
 thumbnail: six-faces-c-thumbnail.png
-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
@@ -20,5 +18,9 @@ taille:
     poids: 24
     insert: 79
     prix: 310
-
+images:
+  - name: six-faces-c.png
+    alt: six faces en c
+  - name: c_3blocs_plan.jpg
+    alt: six faces en c split
 ---

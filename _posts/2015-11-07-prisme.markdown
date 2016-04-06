@@ -15,5 +15,7 @@ taille:
     prix: 170
 images:
   - name: prisme_resize.png
-    alt: image-alt
+    alt: prisme
+  - name: prisme_plan.jpg
+    alt: prisme plan
 ---

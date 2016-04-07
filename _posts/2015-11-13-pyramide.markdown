@@ -19,7 +19,7 @@ taille:
     prix: 65
   - title: L (79x79x79cm hauteur :39cm)
     poids: 6
-    insert: 24
+    insert: 21
     prix: 90
 images:
   - name: pyramide_S_resize.jpg

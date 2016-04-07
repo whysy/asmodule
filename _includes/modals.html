@@ -35,7 +35,7 @@
                             
                             <ul class="list-inline item-details">
                             {% for attribute in post.taille %}
-                                <li>Taille:
+                                <li>{{ post.modele }}:
                                     <strong>{{ attribute.title }}</strong>
                                 </li>
                                 <li>Poids:
@@ -52,6 +52,7 @@
                             </ul>
                             
                             <p>Information : {{ site.avertissement }}</p>
+                            <p><strong>TVA non applicable ­ art 293 bis du CGI</strong></p>
                             
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                         </div>

@@ -9,6 +9,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+modele: Taille
 taille:
   - title: M (45x45x45cm hauteur :15cm)
     poids: 2

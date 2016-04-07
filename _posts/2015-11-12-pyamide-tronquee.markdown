@@ -6,6 +6,7 @@ modal-id: 6
 date: 2015-11-12
 thumbnail: pyramide-tronquee-thumbnail.png
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+modele: Taille
 taille:
   - title: XS (25x25x25cm hauteur :10.5cm)
     poids: 0.5

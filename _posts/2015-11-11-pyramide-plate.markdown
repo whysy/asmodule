@@ -19,7 +19,7 @@ taille:
     insert: 16
     prix: 90
 images:
-  - name: pyramide-plate.png
+  - name: pyramide_S_plate.jpg
     alt: pyramide plate
   - name: 3_faces_identiques_grand_plat_jaune_resize.jpg
     alt: pyramide plate jaune

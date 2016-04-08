@@ -14,11 +14,11 @@ taille:
   - title: M (longueur :100cm hauteur :15cm)
     poids: 3.5
     insert: 8
-    prix: 95€ Lot de 3 :265€
+    prix: 95€ Lot de 3 &#58; 265€
   - title: L (longueur :120cm hauteur :15cm)
     poids: 4
     insert: 10
-    prix: 105€ Lot de 3 :300€
+    prix: 105€ Lot de 3 &#58; 300€
 images:
   - name: 4_faces_diamant_long_1000_jaune_resize.jpg
     alt: image-alt1

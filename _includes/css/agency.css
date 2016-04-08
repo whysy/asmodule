@@ -27,6 +27,10 @@ p.large {
     font-size: 16px;
 }
 
+p.large_2{
+    font-size: 20px;    
+}
+
 a,
 a:hover,
 a:focus,

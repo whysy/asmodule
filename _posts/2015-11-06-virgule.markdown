@@ -1,6 +1,6 @@
 ---
 title: Virgule
-subtitle: 2 tailles disponibles
+subtitle: 1 taille disponible
 layout: default
 modal-id: 1
 date: 2015-11-06

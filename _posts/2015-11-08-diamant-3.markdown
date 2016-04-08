@@ -24,4 +24,7 @@ images:
     alt: image-alt1
   - name: 4_faces_diamant_long_1200_jaune_resize.jpg
     alt: image-alt2
+  - name: diamant_3_blocs.jpg
+    alt: image-alt3
+
 ---

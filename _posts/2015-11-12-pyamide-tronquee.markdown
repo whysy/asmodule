@@ -12,15 +12,15 @@ taille:
   - title: XS (25x25x25cm hauteur :10.5cm)
     poids: 0.5
     insert: 0
-    prix: 35
+    prix: 35€
   - title: M (45x45x45cm hauteur :22.3cm)
     poids: 1.5
     insert: 7
-    prix: 75
+    prix: 75€
   - title: L (79x79x79cm hauteur :39cm)
     poids: 6
     insert: 13
-    prix: 100
+    prix: 100€
 images:
   - name: pyramide-tronquee.png
     alt: image-alt1

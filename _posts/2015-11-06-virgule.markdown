@@ -13,11 +13,11 @@ taille:
   - title: En un bloc
     poids: 22
     insert: 65
-    prix: 250
+    prix: 250€
   - title: En trois blocs
     poids: 24
     insert: 79
-    prix: 310
+    prix: 310€
 images:
   - name: monobloc_C_resize.jpg
     alt: six faces en c

@@ -3,8 +3,7 @@ title: Pyramide
 subtitle: 3 tailles disponibles
 layout: default
 modal-id: 7
-date: 2015-11-15
-lastmod: 2016-04-17T12:49:30-02:00
+date: 2016-04-13
 thumbnail: pyramide_L_thumb.jpg
 project-date: ytytyt 2014
 category: Web Development

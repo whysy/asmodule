@@ -3,7 +3,7 @@ title: Virgule
 subtitle: 1 taille disponible
 layout: default
 modal-id: 1
-date: 2015-11-06
+date: 2016-04-06
 thumbnail: monobloc_C_thumb.jpg
 project-date: April 2014
 client: Start Bootstrap

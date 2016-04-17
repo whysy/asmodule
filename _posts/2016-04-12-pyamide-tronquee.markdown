@@ -3,7 +3,7 @@ title: Pyramide tronquée
 subtitle: 3 tailles disponibles
 layout: default
 modal-id: 6
-date: 2015-11-12
+date: 2016-04-12
 thumbnail: pyramide-tronquee-thumbnail.png
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 modele: Taille

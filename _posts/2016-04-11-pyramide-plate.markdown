@@ -3,7 +3,7 @@ title: Pyramide plate
 subtitle: 2 tailles disponibles
 layout: default
 modal-id: 5
-date: 2015-11-11
+date: 2016-04-11
 thumbnail: 3_faces_identiques_grand_plat_jaune_thumb.jpg
 project-date: April 2014
 client: Start Bootstrap

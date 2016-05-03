@@ -9,7 +9,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
-modele: Forme
+modele: 
 taille:
   - title: Bicorne (longueur :1m largeur :60cm hauteur :35cm)
     poids: 6

@@ -11,7 +11,7 @@ category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 modele: 
 taille:
-  - title: Bicorne (longueur :1m largeur :60cm hauteur :35cm)
+  - title: Bicorne (longueur :1m largeur :60cm hauteur :21cm)
     poids: 6
     insert: 18
     prix: 118€

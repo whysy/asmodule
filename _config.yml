@@ -53,4 +53,12 @@ couleur:
     code: 363b42
   - nom: Gris poussi&egrave;re
     code: 7d7f7d
+  - nom: Noir
+    code: 09090c
+  - nom: Orange
+    code: d47a04    
+  - nom: Rose
+    code: be4e80    
+  - nom: Vert
+    code: 89ae2d    
 avertissement : Les vis de fixation sont fournies avec le module.

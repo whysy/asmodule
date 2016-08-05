@@ -4,7 +4,7 @@ subtitle: 3 tailles disponibles
 layout: default
 modal-id: 6
 date: 2016-04-12
-thumbnail: pyramide-tronquee-thumbnail.png
+thumbnail: pyramide_tronque_1_thumb.jpg
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 modele: Taille
 contractuel: Photos non contractuelles.
@@ -22,8 +22,10 @@ taille:
     insert: 13
     prix: 100€
 images:
-  - name: pyramide-tronquee.png
+  - name: pyramide_tronque_2.jpg
     alt: image-alt1
-  - name: 3_faces_identiques_groupe_tronque.jpg
+  - name: pyramide_tronque_3.jpg
+    alt: image-alt2
+  - name: pyramide_tronque_4.jpg
     alt: image-alt2
 ---

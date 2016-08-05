@@ -4,7 +4,7 @@ subtitle: 2 tailles disponibles
 layout: default
 modal-id: 3
 date: 2016-04-08
-thumbnail: 4_faces_diamant_long_1200_jaune_thumb.jpg
+thumbnail: diamant_III_1.jpg
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
@@ -20,9 +20,9 @@ taille:
     insert: 10
     prix: 105€&nbsp;&nbsp;&nbsp; Lot de 3 &#58; 300€
 images:
-  - name: 4_faces_diamant_long_1000_jaune_resize.jpg
+  - name: diamant_III_2.jpg
     alt: image-alt1
-  - name: 4_faces_diamant_long_1200_jaune_resize.jpg
+  - name: diamant_III_3.jpg
     alt: image-alt2
   - name: diamant_3_blocs.jpg
     alt: image-alt3

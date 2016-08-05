@@ -1,0 +1,28 @@
+---
+title: Delta
+subtitle: 2 tailles disponibles
+layout: default
+modal-id: 11
+date: 2016-08-05
+thumbnail: delta_1_thumb.jpg
+project-date: ytytyt 2014
+category: Web Development
+description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+modele: Taille
+taille:
+  - title: M (45x45x45cm hauteur :11cm)
+    poids: 1
+    insert: 4
+    prix: 50€
+  - title: L (79x79x79cm hauteur :20cm)
+    poids: 3.5
+    insert: 8
+    prix: 80€
+images:
+  - name: delta_2.jpg
+    alt: delta M
+  - name: delta_3.jpg
+    alt: delta L
+  - name: delta_1.jpg
+    alt: delta groupe
+---

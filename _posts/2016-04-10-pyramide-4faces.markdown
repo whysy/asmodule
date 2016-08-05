@@ -3,7 +3,7 @@ title: Pyramide 4 faces
 subtitle: 2 tailles disponibles
 layout: default
 modal-id: 12
-date: 2016-04-08
+date: 2016-04-10
 thumbnail: pyramide_4faces_1_thumb.jpg
 project-date: ytytyt 2014
 category: Web Development

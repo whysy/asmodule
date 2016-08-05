@@ -4,7 +4,7 @@ subtitle: 2 formes disponibles
 layout: default
 modal-id: 4
 date: 2016-04-09
-thumbnail: 3_faces_identiques _creux_thumb.jpg
+thumbnail: tricorne_1_thumb.jpg
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
@@ -20,8 +20,10 @@ taille:
     insert: 15
     prix: 145€
 images:
-  - name: 3_faces_identiques _creux_resize.jpg
+  - name: tricorne_2.jpg
     alt: image-alt1
-  - name: 3_faces_identiques_grand_creux_centre_resize.jpg
+  - name: tricorne_3.jpg
+    alt: image-alt2
+  - name: tricorne_1.jpg
     alt: image-alt2
 ---

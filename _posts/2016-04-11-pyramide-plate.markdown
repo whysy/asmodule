@@ -4,7 +4,7 @@ subtitle: 2 tailles disponibles
 layout: default
 modal-id: 5
 date: 2016-04-11
-thumbnail: 3_faces_identiques_grand_plat_jaune_thumb.jpg
+thumbnail: pyramide_plate_1_thumb.jpg
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
@@ -20,8 +20,10 @@ taille:
     insert: 16
     prix: 90€
 images:
-  - name: pyramide_S_plate.jpg
+  - name: pyramide_plate_3.jpg
     alt: pyramide plate
-  - name: 3_faces_identiques_grand_plat_jaune_resize.jpg
-    alt: pyramide plate jaune
+  - name: pyramide_plate_2.jpg
+    alt: pyramide plate
+  - name: pyramide_plate_1.jpg
+    alt: pyramide plate
 ---

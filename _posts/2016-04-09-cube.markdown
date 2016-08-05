@@ -1,0 +1,32 @@
+---
+title: Cube
+subtitle: 2 tailles disponibles
+layout: default
+modal-id: 30
+date: 2016-04-08
+thumbnail: cube_1_thumb.jpg
+project-date: ytytyt 2014
+category: Web Development
+description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+modele: Couvercle
+taille:
+  - title: M (longueur :112cm largeur :71cm hauteur :21.8cm)
+    poids: 11.5 (structure :8kg / couvercle :3.5kg)
+    insert: 24
+    prix: 250€
+  - title: M (longueur :112cm largeur :71cm hauteur :21.8cm)
+    poids: 46 (structure :34kg / couvercle :12kg)
+    insert: 90
+    prix: 400€
+images:
+  - name: cube_1.jpg
+    alt: delta M
+  - name: cube_2.jpg
+    alt: delta L
+  - name: cube_3.jpg
+    alt: delta groupe
+  - name: cube_4.jpg
+    alt: delta groupe
+  - name: cube_5.jpg
+    alt: delta groupe        
+---

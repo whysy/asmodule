@@ -14,7 +14,7 @@ taille:
     poids: 11.5 (structure :8kg / couvercle :3.5kg)
     insert: 24
     prix: 250€
-  - title: M (longueur :112cm largeur :71cm hauteur :21.8cm)
+  - title: L (longueur :112cm largeur :71cm hauteur :21.8cm)
     poids: 46 (structure :34kg / couvercle :12kg)
     insert: 90
     prix: 400€

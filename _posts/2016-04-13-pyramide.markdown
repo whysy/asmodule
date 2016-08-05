@@ -4,7 +4,7 @@ subtitle: 3 tailles disponibles
 layout: default
 modal-id: 7
 date: 2016-04-13
-thumbnail: pyramide_L_thumb.jpg
+thumbnail: pyramide_1_thumb.jpg
 project-date: ytytyt 2014
 category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
@@ -23,12 +23,12 @@ taille:
     insert: 21
     prix: 90€
 images:
-  - name: pyramide_S_resize.jpg
+  - name: pyramide_3.jpg
     alt: pyramide S
-  - name: pyramide_M_resize.jpg
+  - name: pyramide_4.jpg
     alt: pyramide M
-  - name: pyramide_L_resize.jpg
+  - name: pyramide_5.jpg
     alt: pyramide L
-  - name: pyramide_groupe_resize.jpg
+  - name: pyramide_2.jpg
     alt: pyramide groupe
 ---

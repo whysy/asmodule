@@ -28,4 +28,6 @@ images:
     alt: image-alt2
   - name: pyramide_tronque_4.jpg
     alt: image-alt2
+  - name: pyramide_tronque_1.jpg
+    alt: image-alt2
 ---

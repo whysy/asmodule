@@ -11,11 +11,11 @@ description: Un rabais de 5% est effectué si le module est commandé sans inser
 modele: Couvercle
 taille:
   - title: M (longueur :112cm largeur :71cm hauteur :21.8cm)
-    poids: 11.5 (structure :8kg / couvercle :3.5kg)
+    poids: 11.5
     insert: 24
     prix: 250€
   - title: L (longueur :112cm largeur :71cm hauteur :21.8cm)
-    poids: 46 (structure :34kg / couvercle :12kg)
+    poids: 46
     insert: 90
     prix: 400€
 images:

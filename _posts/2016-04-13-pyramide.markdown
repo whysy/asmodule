@@ -31,4 +31,6 @@ images:
     alt: pyramide L
   - name: pyramide_2.jpg
     alt: pyramide groupe
+  - name: pyramide_1.jpg
+    alt: pyramide groupe
 ---

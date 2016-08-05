@@ -3,7 +3,7 @@ title: Delta
 subtitle: 2 tailles disponibles
 layout: default
 modal-id: 11
-date: 2016-08-05
+date: 2016-04-08
 thumbnail: delta_1_thumb.jpg
 project-date: ytytyt 2014
 category: Web Development

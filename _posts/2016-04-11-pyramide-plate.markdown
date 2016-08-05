@@ -20,9 +20,9 @@ taille:
     insert: 16
     prix: 90€
 images:
-  - name: pyramide_plate_3.jpg
-    alt: pyramide plate
   - name: pyramide_plate_2.jpg
+    alt: pyramide plate
+  - name: pyramide_plate_3.jpg
     alt: pyramide plate
   - name: pyramide_plate_1.jpg
     alt: pyramide plate

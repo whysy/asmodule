@@ -3,7 +3,7 @@ title: Tricorne
 subtitle: 2 formes disponibles
 layout: default
 modal-id: 4
-date: 2016-04-09
+date: 2016-04-05
 thumbnail: tricorne_1_thumb.jpg
 project-date: April 2014
 client: Start Bootstrap

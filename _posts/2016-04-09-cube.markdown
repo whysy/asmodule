@@ -10,11 +10,11 @@ category: Web Development
 description: Un rabais de 5% est effectué si le module est commandé sans inserts.
 modele: Couvercle
 taille:
-  - title: M (longueur :112cm largeur :71cm hauteur :21.8cm)
+  - title: M (50x50x50x50 hauteur :40cm)
     poids: 11.5
     insert: 24
     prix: 250€
-  - title: L (longueur :112cm largeur :71cm hauteur :21.8cm)
+  - title: L (100x100x100x100 hauteur :80cm)
     poids: 46
     insert: 90
     prix: 400€

@@ -3,7 +3,7 @@ title: Diamant III
 subtitle: 2 tailles disponibles
 layout: default
 modal-id: 3
-date: 2016-04-08
+date: 2016-04-07
 thumbnail: diamant_III_1.jpg
 project-date: April 2014
 client: Start Bootstrap

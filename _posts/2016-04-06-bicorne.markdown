@@ -3,7 +3,7 @@ title: Bicorne
 subtitle: 1 taille disponible
 layout: default
 modal-id: 10
-date: 2016-04-09
+date: 2016-04-06
 thumbnail: bicorne_thumb.jpg
 project-date: April 2014
 client: Start Bootstrap

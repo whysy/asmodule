@@ -7,7 +7,10 @@ date: 2016-04-02
 thumbnail: cube_1_thumb.jpg
 project-date: ytytyt 2014
 category: Web Development
-description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+description: Un rabais de 5% est effectué si le module est commandé sans inserts. Le vissage du cube se fait par l'intérieur une fois le couvercle démonté.
+Poids => structure : 8kg/couvercle : 3.5kg
+Poids => structure : 34kg/couvercle : 12kg
+Les vis de fixation de la structure et du couvercle sont fournies avec le module.
 modele: Couvercle
 taille:
   - title: M (50x50x50x50 hauteur :40cm)

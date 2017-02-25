@@ -1,0 +1,24 @@
+---
+title: Dôme
+subtitle: 2 tailles disponibles
+layout: default
+modal-id: 1
+date: 2016-03-30
+thumbnail: dome_thumb.jpg
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+taille:
+  - title: M (diamètre :76.2cm hauteur :18.9cm)
+    poids: 8
+    insert: 6
+    prix: 160€
+  - title: L (diamètre :127.1cm hauteur :31.5cm)
+    poids: 23
+    insert: 46
+    prix: 355€
+images:
+  - name: dome1.jpg
+    alt: image-alt1
+---

@@ -1,0 +1,20 @@
+---
+title: Demi dôme
+subtitle: 1 taille disponible
+layout: default
+modal-id: 1
+date: 2016-03-29
+thumbnail: demi_dome_thumb.jpg
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Un rabais de 5% est effectué si le module est commandé sans inserts.
+taille:
+  - title: Demi dôme (longueur :120cm largeur :63cm hauteur :31cm)
+    poids: 15
+    insert: 32
+    prix: 280€
+images:
+  - name: demi_dome.jpg
+    alt: image-alt1
+---

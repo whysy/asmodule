@@ -2,7 +2,7 @@
 title: Pyramide plate
 subtitle: 2 tailles disponibles
 layout: default
-modal-id: 5
+modal-id: 15
 date: 2016-04-11
 thumbnail: pyramide_plate_1_thumb.jpg
 project-date: April 2014

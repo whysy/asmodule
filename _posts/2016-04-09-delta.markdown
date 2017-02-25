@@ -2,7 +2,7 @@
 title: Delta
 subtitle: 2 tailles disponibles
 layout: default
-modal-id: 11
+modal-id: 13
 date: 2016-04-09
 thumbnail: delta_1_thumb.jpg
 project-date: ytytyt 2014

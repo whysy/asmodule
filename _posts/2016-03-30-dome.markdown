@@ -2,7 +2,7 @@
 title: Dôme
 subtitle: 2 tailles disponibles
 layout: default
-modal-id: 1
+modal-id: 0
 date: 2016-03-30
 thumbnail: dome_thumb.jpg
 project-date: April 2014

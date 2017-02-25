@@ -2,7 +2,7 @@
 title: Demi dôme
 subtitle: 1 taille disponible
 layout: default
-modal-id: 1
+modal-id: -1
 date: 2016-03-29
 thumbnail: demi_dome_thumb.jpg
 project-date: April 2014

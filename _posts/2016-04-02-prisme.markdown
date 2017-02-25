@@ -20,7 +20,7 @@ taille:
 images:
   - name: prisme_resize.png
     alt: prisme
-  - name: prisme_half.png
+  - name: prisme_half.jpg
     alt: prisme
   - name: prisme_plan.jpg
     alt: prisme plan

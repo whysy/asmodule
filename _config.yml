@@ -64,3 +64,4 @@ couleur:
 avertissement : Les vis de fixation sont fournies avec le module.
 
 languages: ["fr", "en"]
+exclude_from_localizations: ["javascript", "images", "css"]

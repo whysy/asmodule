@@ -62,3 +62,5 @@ couleur:
   - nom: Vert
     code: 89ae2d    
 avertissement : Les vis de fixation sont fournies avec le module.
+
+languages: ["fr", "en"]

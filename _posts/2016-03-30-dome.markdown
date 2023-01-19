@@ -13,11 +13,11 @@ taille:
   - title: M (diamètre :76.2cm hauteur :18.9cm)
     poids: 8
     insert: 6
-    prix: 160€
+    prix: 192€
   - title: L (diamètre :127.1cm hauteur :31.5cm)
     poids: 23
     insert: 46
-    prix: 355€
+    prix: 426€
 images:
   - name: dome1.jpg
     alt: image-alt1

@@ -14,11 +14,11 @@ taille:
   - title: M (longueur :100cm hauteur :15cm)
     poids: 3.5
     insert: 8
-    prix: 95€&nbsp;&nbsp;&nbsp; Lot de 3 &#58; 265€
+    prix: 114€&nbsp;&nbsp;&nbsp; Lot de 3 &#58; 318€
   - title: L (longueur :120cm hauteur :15cm)
     poids: 4
     insert: 10
-    prix: 105€&nbsp;&nbsp;&nbsp; Lot de 3 &#58; 300€
+    prix: 130€&nbsp;&nbsp;&nbsp; Lot de 3 &#58; 360€
 images:
   - name: diamant_III_2.jpg
     alt: image-alt1

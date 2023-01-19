@@ -13,11 +13,11 @@ taille:
   - title: M (45x45x45cm hauteur :11cm)
     poids: 1
     insert: 4
-    prix: 50€
+    prix: 60€
   - title: L (79x79x79cm hauteur :20cm)
     poids: 3.5
     insert: 8
-    prix: 80€
+    prix: 96€
 images:
   - name: delta_2.jpg
     alt: delta M

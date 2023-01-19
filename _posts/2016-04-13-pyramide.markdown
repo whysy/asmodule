@@ -13,15 +13,15 @@ taille:
   - title: XS (25x25x25cm hauteur :10.5cm)
     poids: 0.5
     insert: 0
-    prix: 25€
+    prix: 30€
   - title: M (45x45x45cm hauteur :22.3cm)
     poids: 1.5
     insert: 3
-    prix: 65€
+    prix: 75€
   - title: L (79x79x79cm hauteur :39cm)
     poids: 6
     insert: 21
-    prix: 90€
+    prix: 108€
 images:
   - name: pyramide_3.jpg
     alt: pyramide S

@@ -13,11 +13,11 @@ taille:
   - title: M (29x29x29x29x29 hauteur :12.5cm)
     poids: 2
     insert: 5
-    prix: 78€
+    prix: 90€
   - title: L (51x51x51x51x51 hauteur :25cm)
     poids: 6.5
     insert: 20
-    prix: 119€
+    prix: 140€
 images:
   - name: cone_3.jpg
     alt: delta M

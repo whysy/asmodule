@@ -14,11 +14,11 @@ taille:
   - title: creuse (73x73x73cm hauteur :11.5cm)
     poids: 4
     insert: 15
-    prix: 150€
+    prix: 180€
   - title: pleine (73x73x73cm hauteur :13.6cm)
     poids: 4
     insert: 15
-    prix: 145€
+    prix: 180€
 images:
   - name: tricorne_2.jpg
     alt: image-alt1

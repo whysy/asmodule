@@ -13,11 +13,11 @@ taille:
   - title: M (45x45x45cm hauteur :12cm)
     poids: 1.5
     insert: 5
-    prix: 54€
+    prix: 64€
   - title: L (79x79x79cm hauteur :21cm)
     poids: 5
     insert: 12
-    prix: 95€
+    prix: 114€
 images:
   - name: pyramide_4faces_2.jpg
     alt: delta M

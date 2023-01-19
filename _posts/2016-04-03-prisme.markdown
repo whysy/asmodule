@@ -12,11 +12,11 @@ taille:
   - title: Prisme (longueur :1.5m largeur :40cm/30cm hauteur :22.5cm)
     poids: 11
     insert: 32
-    prix: 170€
+    prix: 204€
   - title: Demi-prismes (longueur :1.5m largeur :40cm/30cm hauteur :22.5cm)
     poids: 12
     insert: 14
-    prix: 190€
+    prix: 228€
 images:
   - name: prisme_resize.png
     alt: prisme

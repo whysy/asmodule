@@ -13,7 +13,7 @@ taille:
   - title: Demi dôme (longueur :120cm largeur :63cm hauteur :31cm)
     poids: 15
     insert: 32
-    prix: 280€
+    prix: 336€
 images:
   - name: demi_dome.jpg
     alt: image-alt1

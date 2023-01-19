@@ -13,11 +13,11 @@ taille:
   - title: M (50x50x50x50 hauteur :40cm)
     poids: 11.5
     insert: 24
-    prix: 250€
+    prix: 300€
   - title: L (100x100x100x100 hauteur :80cm)
     poids: 46
     insert: 90
-    prix: 400€
+    prix: 480€
 images:
   - name: cube_1.jpg
     alt: delta M

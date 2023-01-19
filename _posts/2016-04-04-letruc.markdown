@@ -13,7 +13,7 @@ taille:
   - title: M (longueur :112cm largeur :71cm hauteur :21.8cm)
     poids: 7
     insert: 19
-    prix: 160€
+    prix: 240€
 images:
   - name: letruc_2.jpg
     alt: delta M
